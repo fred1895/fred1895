@@ -1,14 +1,14 @@
-Hi, folks. My name is Frederico, or just Fred 😄.
-💬 - I'm 23 years old and I'm studying to become a great developer 😁. I'm in College 🎓 and studying "System analysis and development".
+Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
+💬 - I'm 23 years old and I'm studying to become a great developer 😁. I'm in College 🎓 and studying "System analysis and development".<br><br>
 
-📚 - I’m currently learning Java, MySql and their frameworks, and I really like the Backend development. 
+📚 - I’m currently learning Java, MySql and their frameworks, and I really like the Backend development. <br>
 I've already know how to use JavaFX, JDBC, Spring Boot and JPA / Hibernate and else.
 
-🏷️ - I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript.
+🏷️ - I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript.<br>
 🏷️ - I also know the fundamentals of object-oriented programming and functional programming.
 
-😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
-I'm communicative and not afraid to discover new things.
+😉 - I am a helpful and creative person always finding ways to increase my knowledge. <br>
+I'm communicative and not afraid to discover new things.<br><br>
 
 ⚡ Fun fact: Before start to develop, I was and English Teacher 😄.
 
