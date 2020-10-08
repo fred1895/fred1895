@@ -7,7 +7,7 @@
 
 <div>
     <span>
-<h3 style="color: #eb1515;>Backend</h3>
+<h3 style="color: #eb1515;">Backend</h3>
 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
 <h4>Repositories</h4>
 <ul>
