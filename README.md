@@ -29,7 +29,7 @@
 </ul>       
 </span>
     <span>
-<h3 style="color: #edaf05>Frontend</h3>
+<h3 style="color: #edaf05">Frontend</h3>
 💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
 <h4>Repositories</h4>
 <ul>
