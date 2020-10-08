@@ -1,4 +1,5 @@
-Hi, folks. My name is Frederico, or just Fred 😄. </br></br>
+<body style="background-color:#302b2b;">
+   Hi, folks. My name is Frederico, or just Fred 😄. </br></br>
 💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
 </br>
 🔭 - I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot, JPA Hibenate and DB migration with Flyway. I also use docker for the containers.
@@ -50,6 +51,8 @@ I'm communicative and not afraid to discover new things.
 </br></br>
 
 ⚡ Fun fact: Before start to develop, I was and English Teacher 😄.
+ 
+</body>
 
 <!--
 **fred1895/fred1895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
