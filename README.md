@@ -20,7 +20,6 @@ Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
         <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
     </li>
 </ul>
-<br>
 <h3>Frontend</h3>
 💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
 <h4>Repositories</h4>
