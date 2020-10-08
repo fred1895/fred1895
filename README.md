@@ -3,34 +3,41 @@ Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
 <br>
 🔭 - I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot, JPA Hibenate and DB migration with Flyway. I also use docker for the containers.
 <hr>
-<h3>Backend</h3>
-💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
-<h4>Repositories</h4>
-<ul>
-    <li>
-        <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
-    </li>
-    <li>
-        <a href="https://github.com/fred1895/cursomvc">Spring Boot and JPA / Hibernate</a>
-    </li>
-    <li>
-        <a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate</a>
-    </li>
-    <li>
-        <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
-    </li>
-</ul>
-<h3>Frontend</h3>
-💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
-<h4>Repositories</h4>
-<ul>
-    <li>
-        <a href="https://github.com/fred1895/angular-clientes-app">Angular app consuming an API I created</a>
-    </li>
-    <li>
-        <a href="https://github.com/fred1895/front-agenda-angular">Another Angular app consuming an API I created</a>
-    </li>
-</ul>
+<div>
+    <span>
+        <h3>Backend</h3>
+            💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
+            <h4>Repositories</h4>
+            <ul>
+                <li>
+                    <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
+                </li>
+                <li>
+                    <a href="https://github.com/fred1895/cursomvc">Spring Boot and JPA / Hibernate</a>
+                </li>
+                <li>
+                    <a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate</a>
+                </li>
+                <li>
+                    <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
+                </li>
+            </ul>        
+    </span>
+    
+    <span>
+        <h3>Frontend</h3>
+            💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
+            <h4>Repositories</h4>
+            <ul>
+                <li>
+                    <a href="https://github.com/fred1895/angular-clientes-app">Angular app consuming an API I created</a>
+                </li>
+                <li>
+                    <a href="https://github.com/fred1895/front-agenda-angular">Another Angular app consuming an API I created</a>
+                </li>
+            </ul>
+    </span>
+</div>
 <hr>
 <h3>About me</h3>
 😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
