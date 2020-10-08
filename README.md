@@ -2,7 +2,7 @@ Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
 💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
 <br>
 🔭 - I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot, JPA Hibenate and DB migration with Flyway. I also use docker for the containers.
-<br>
+<hr>
 <h3>Backend</h3>
 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
 <h4>Repositories</h4>
