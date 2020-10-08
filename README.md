@@ -31,7 +31,7 @@ Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
         <a href="https://github.com/fred1895/front-agenda-angular">Another Angular app consuming an API I created</a>
     </li>
 </ul>
-<br>
+<hr>
 <h3>About me</h3>
 😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
 <br>
