@@ -1,11 +1,11 @@
 Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
-💬 - I'm 23 years old and I'm studying to become a great developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
+💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
 <br>
 🔭 - I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot, JPA Hibenate and DB migration with Flyway. I also use docker for the containers.
 <br>
-<br>
+<h3>Backend</h3>
 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
-<h3>Repositories</h3>
+<h4>Repositories</h4>
 <ul>
     <li>
         <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
@@ -20,11 +20,10 @@ Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
         <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
     </li>
 </ul>
-
 <br>
-<br>
+<h3>Frontend</h3>
 💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
-<h3>Repositories</h3>
+<h4>Repositories</h4>
 <ul>
     <li>
         <a href="https://github.com/fred1895/angular-clientes-app">Angular app consuming an API I created</a>
@@ -34,9 +33,7 @@ Hi, folks. My name is Frederico, or just Fred 😄. <br><br>
     </li>
 </ul>
 <br>
-<br>
 <h3>About me</h3>
-
 😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
 <br>
 I'm communicative and not afraid to discover new things.
