@@ -9,18 +9,18 @@
     <span>
 <h3 style="color: #eb1515;">Backend</h3>
 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
-<h4>Repositories</h4>
+<h4>Links for the repositories</h4>
 <ul>
 <li>
 <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
 </li>
         
 <li>
-<a href="https://github.com/fred1895/cursomvc">Spring Boot and JPA / Hibernate</a>
+<a href="https://github.com/fred1895/cursomvc">Spring Boot and JPA / Hibernate - CRUD</a>
 </li>
 
 <li>
-<a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate</a>
+<a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate - Restful API</a>
 </li>
 
 <li>
@@ -31,14 +31,14 @@
     <span>
 <h3 style="color: #edaf05">Frontend</h3>
 💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
-<h4>Repositories</h4>
+<h4>Links for the repositories</h4>
 <ul>
 <li>
-<a href="https://github.com/fred1895/angular-clientes-app">Angular app consuming an API I created</a>
+<a href="https://github.com/fred1895/angular-clientes-app">Angular app consuming an API</a>
 </li>
 
 <li>
-<a href="https://github.com/fred1895/front-agenda-angular">Another Angular app consuming an API I created</a>
+<a href="https://github.com/fred1895/front-agenda-angular">Angular app using reactive forms consuming an API</a>
 </li>
 </ul>
 </span>
