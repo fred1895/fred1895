@@ -47,7 +47,7 @@
 <h3>About me</h3>
 😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
 <br>
-I'm communicative and not afraid to discover new things.
+😄 - I'm communicative and not afraid to discover new things.
 </br></br>
 
 ⚡ Fun fact: Before start to develop, I was and English Teacher 😄.
