@@ -16,7 +16,7 @@
 </li>
         
 <li>
-<a href="https://github.com/fred1895/cursomvc">Spring Boot and JPA / Hibernate - CRUD</a>
+<a href="https://github.com/fred1895/cursomvc">A CRUD with Spring Boot and JPA / Hibernate</a>
 </li>
 
 <li>
