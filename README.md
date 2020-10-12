@@ -54,7 +54,7 @@
  😄 - I'm communicative and not afraid to discover new things.
  </br></br>
  
- ⚡ Fun fact: Before start to develop, I was and English Teacher 😄.
+ ⚡ Fun fact: Before start to develop, I was an English Teacher 😄.
   
  </body>
 
