@@ -1,5 +1,5 @@
 <body>
-    Hi. My name is Frederico, or just Fred 😄. Welcome to my github. Here are some projects I've made. </br></br>
+    Hi. My name is Frederico, or just Fred 😄. Welcome to my github. Here are some projects I've made. 
 <h2>Projects</h2>
  
  <div>
