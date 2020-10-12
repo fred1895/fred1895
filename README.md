@@ -23,6 +23,10 @@
  <a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate - Restful API</a>
  </li>
  
+  <li>
+ <a href="https://github.com/fred1895/mongodb-springboot">NoSQL API with MongoDB</a>
+ </li>
+ 
  <li>
  <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
  </li>
