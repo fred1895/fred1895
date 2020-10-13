@@ -44,7 +44,7 @@
  </ul>
  </span>
  </div>       
- </hr>
+ <hr>
  <h3>About me</h3>
   💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
  </br>
