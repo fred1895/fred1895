@@ -52,7 +52,7 @@
  <br>
  😄 - I'm communicative and not afraid to discover new things.
  <br>
- - 👯 I have experience working with other devs.
+ 👯 - I have experience working with other devs.
  </br></br>
  
  ⚡ Fun fact: Before start to develop, I was an English Teacher 😄.
