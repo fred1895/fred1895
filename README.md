@@ -1,5 +1,5 @@
 <body>
-    Hi. My name is Frederico, or just Fred 😄. Welcome to my github. Here are some projects I've made. 
+    Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, FlyWay, MySQL, Docker, Azure DevOps. Welcome to my github. Here are some projects I've made. 
 <h2>Projects</h2>
  
  <div>
