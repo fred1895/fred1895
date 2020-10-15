@@ -1,5 +1,5 @@
 <body> <h1> Hello World </h1>
-    Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, FlyWay, MySQL, Docker, Azure DevOps, Git for version control. Welcome to my github. Here are some projects I've made studying. 
+    Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, FlyWay, MySQL, Docker, Azure DevOps, Git for version control. Welcome to my github.
 <hr>
 <h2>Projects</h2>
  
