@@ -9,9 +9,6 @@
  💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>
  <h4>Links for the repositories</h4>
  <ul>
- <li>
- <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
- </li>
          
  <li>
  <a href="https://github.com/fred1895/cursomvc">A CRUD with Spring Boot and JPA / Hibernate</a>
@@ -28,6 +25,10 @@
  <li>
  <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
  </li>
+ 
+ <li>
+ <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
+ </li>
  </ul>       
  </span>
      <span>
@@ -42,6 +43,15 @@
  <li>
  <a href="https://github.com/fred1895/front-agenda-angular">Angular app using reactive forms consuming an API</a>
  </li>
+ 
+ <li>
+ <a href="https://github.com/fred1895/css_study">CSS Projects</a>
+ </li>
+ 
+  <li>
+ <a href="https://github.com/fred1895/js_study">JavaScript Projects</a>
+ </li>
+
  </ul>
  </span>
  </div>       
