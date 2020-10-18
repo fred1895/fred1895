@@ -18,6 +18,10 @@
  <a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate - Restful API</a>
  </li>
  
+ <li>
+ <a href="https://github.com/fred1895/feign-client-viacep">Spring Boot app using Feign Client</a>
+ </li>
+ 
   <li>
  <a href="https://github.com/fred1895/mongodb-springboot">NoSQL API with MongoDB</a>
  </li>
