@@ -19,7 +19,7 @@
  </li>
  
  <li>
- <a href="https://github.com/fred1895/feign-client-viacep">Spring Boot app using Feign Client</a>
+ <a href="https://github.com/fred1895/feign-client-viacep">Microservice using Feign Client</a>
  </li>
  
   <li>
