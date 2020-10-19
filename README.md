@@ -14,6 +14,10 @@ Back-end | Front-end
 [NoSQL API with MongoDB](https://github.com/fred1895/mongodb-springboot)| [Javascript Projects](https://github.com/fred1895/js_study)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
+
+[<img align="left" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />][github]
+[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedIn]
      
  <hr>
  ## About me
@@ -27,10 +31,6 @@ Back-end | Front-end
  </br>
  ⚡ Fun fact: Before start to develop, I was an English Teacher 😄.
  </br></br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
-
-
 
 <!--
 **fred1895/fred1895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
