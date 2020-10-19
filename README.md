@@ -8,7 +8,7 @@
 
 Back-end | Front-end
 ------------ | -------------
-[A complete CRUD with Spring Boot and JPA / Hibernate](href="https://github.com/fred1895/cursomvc)| [Angular app consuming an API](https://github.com/fred1895/angular-clientes-app)
+[A complete CRUD with Spring Boot and JPA / Hibernate](href=https://github.com/fred1895/cursomvc)| [Angular app consuming an API](https://github.com/fred1895/angular-clientes-app)
 Content in the first column | Content in the second column
  <div>
      <span>
