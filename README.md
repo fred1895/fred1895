@@ -17,11 +17,20 @@ Back-end | Front-end
 
 ## Contact with me:
 
-<img align="right" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />
-<img align="right" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />
-<img align="right" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
-     
-<hr>
+<img align="left" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />
+<img align="left" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
+
+## Languages and tools:
+
+<img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Spring Boot" width="22px" src="https://simpleicons.org/icons/spring.svg" />
+<img align="left" alt="Angular" width="22px" src="https://simpleicons.org/icons/angular.svg" />
+<img align="left" alt="Azure" width="22px" src="https://simpleicons.org/icons/azuredevops.svg" />
+<img align="left" alt="HTML" width="22px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="Javascript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
+
 ## About me
   💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
  </br>
