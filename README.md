@@ -6,7 +6,7 @@
  <div>
      <span>
  <h3>Backend</h3>
- 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else.                                   dsvoioidsvvois <br>                                  
+ 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>                                  
  <h4>Links for the repositories</h4>
  <ul>
          
