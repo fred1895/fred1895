@@ -18,13 +18,13 @@ Back-end | Front-end
 
 [<img align="left" alt="MyWhatsapp" width="22px" src="https://cdn.pixabay.com/photo/2015/08/03/13/58/soon-873316__340.png" />][whatsapp]
 [<img align="left" alt="MyGitHub | GitHub" width="22px" src="logos/github.svg?raw=true" />][github]
-[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" />][linkedin]
+[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" />][linkedin]
 
 <br>
 
 ## Languages and tools:
 
-[<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="Java" width="22px" src="logos/java.svg?raw=true" />][java]
 [<img align="left" alt="Spring Boot" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][spring]
 [<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
