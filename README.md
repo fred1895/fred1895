@@ -15,12 +15,14 @@ Back-end | Front-end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
 
+## Contact with me:
+
 <img align="right" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />
 <img align="right" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />
 <img align="right" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
      
- <hr>
- ## About me
+<hr>
+## About me
   💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
  </br>
  😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
