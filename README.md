@@ -4,7 +4,7 @@
 
 <hr>
 
-## Projects
+## Repositories
 
 Back-end | Front-end
 ------------ | -------------
@@ -12,64 +12,11 @@ Back-end | Front-end
 [Spring Boot and JPA / Hibernate - Restful API](https://github.com/fred1895/spring-angular-clientes_project)| [Angular app using reactive forms consuming an API](https://github.com/fred1895/front-agenda-angular)
 [Microservice using Feign Client](https://github.com/fred1895/feign-client-viacep)| [CSS Projects](https://github.com/fred1895/css_study)
 [NoSQL API with MongoDB](https://github.com/fred1895/mongodb-springboot)| [Javascript Projects](https://github.com/fred1895/js_study)
- <div>
-     <span>
- <h3>Backend</h3>
- 💻 - To Backend I've already know how to develop using JavaFX, JDBC, Spring Boot and JPA / Hibernate, MySQL and else. <br>                                  
- <h4>Links for the repositories</h4>
- <ul>
-         
- <li>
- <a href="https://github.com/fred1895/cursomvc">A CRUD with Spring Boot and JPA / Hibernate</a>
- </li>
- 
- <li>
- <a href="https://github.com/fred1895/spring-angular-clientes_project">Spring Boot and JPA / Hibernate - Restful API</a>
- </li>
- 
- <li>
- <a href="https://github.com/fred1895/feign-client-viacep">Microservice using Feign Client</a>
- </li>
- 
-  <li>
- <a href="https://github.com/fred1895/mongodb-springboot">NoSQL API with MongoDB</a>
- </li>
- 
- <li>
- <a href="https://github.com/fred1895/election_in_java">Java OOP</a>
- </li>
- 
- <li>
- <a href="https://github.com/fred1895/workshop-javafx-jdbc">JavaFX and JDBC</a>
- </li>
- </ul>       
- </span>
-     <span>
- <h3>Frontend</h3>
- 💻 - To Frontend I've already know how to develop in HTML5, CSS/Bootstrap and JavaScript/TypeScript. The framework I work on is Angular.<br>
- <h4>Links for the repositories</h4>
- <ul>
- <li>
- <a href="https://github.com/fred1895/angular-clientes-app">Angular app consuming an API</a>
- </li>
- 
- <li>
- <a href="https://github.com/fred1895/front-agenda-angular">Angular app using reactive forms consuming an API</a>
- </li>
- 
- <li>
- <a href="https://github.com/fred1895/css_study">CSS Projects</a>
- </li>
- 
-  <li>
- <a href="https://github.com/fred1895/js_study">JavaScript Projects</a>
- </li>
 
- </ul>
- </span>
- </div>       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
+     
  <hr>
- <h3>About me</h3>
+ ## About me
   💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
  </br>
  😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
