@@ -15,9 +15,9 @@ Back-end | Front-end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
 
-[<img align="left" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][] 
-[<img align="left" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />][]
-[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][]
+[<img align="left" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />]
+[<img align="left" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />]
+[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />]
      
  <hr>
  ## About me
