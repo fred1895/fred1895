@@ -70,9 +70,9 @@
  👯 - I have experience working with other devs using pipelines in Azure and tests with sonarcloud.
  </br>
  ⚡ Fun fact: Before start to develop, I was an English Teacher 😄.
- </br> </br>
+ </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
 
 
 
