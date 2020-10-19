@@ -24,21 +24,21 @@ Back-end | Front-end
 
 ## Languages and tools:
 
-[<img align="left" alt="Java" width="22px" src="logos/java.svg?raw=true" />]
-[<img align="left" alt="Spring Boot" width="22px" src="logos/spring.svg?raw=true" />]
-[<img align="left" alt="Angular" width="22px" src="logos/angular.svg?raw=true" />]
-[<img align="left" alt="HTML" width="22px" src="logos/html5.svg?raw=true" />]
-[<img align="left" alt="CSS" width="22px" src="logos/css3.svg?raw=true" />]
-[<img align="left" alt="Javascript" width="22px" src="logos/javascript.svg?raw=true" />]
-[<img align="left" alt="Typescript" width="22px" src="logos/typescript.svg?raw=true" />]
-[<img align="left" alt="Git" width="22px" src="logos/git.svg?raw=true" />]
-[<img align="left" alt="Bitbucket" width="22px" src="logos/bitbucket.svg?raw=true" />]
-[<img align="left" alt="Azure" width="22px" src="logos/azuredevops.svg?raw=true" />]
-[<img align="left" alt="Docker" width="22px" src="logos/docker.svg?raw=true" />]
-[<img align="left" alt="Intellijidea" width="22px" src="logos/intellijidea.svg?raw=true" />]
-[<img align="left" alt="VS Code" width="22px" src="logos/visualstudiocode.svg?raw=true" />]
-[<img align="left" alt="SonarCloud" width="22px" src="logos/sonarcloud.svg?raw=true" />]
-[<img align="left" alt="Bootstrap" width="22px" src="logos/bootstrap.svg?raw=true" />]
+[<img align="left" alt="Java" width="22px" src="logos/java.svg?raw=true" />][java]
+[<img align="left" alt="Spring Boot" width="22px" src="logos/spring.svg?raw=true" />][spring]
+[<img align="left" alt="Angular" width="22px" src="logos/angular.svg?raw=true" />][angular]
+[<img align="left" alt="HTML" width="22px" src="logos/html5.svg?raw=true" />][html]
+[<img align="left" alt="CSS" width="22px" src="logos/css3.svg?raw=true" />][css]
+[<img align="left" alt="Javascript" width="22px" src="logos/javascript.svg?raw=true" />][javascript]
+[<img align="left" alt="Typescript" width="22px" src="logos/typescript.svg?raw=true" />][typescript]
+[<img align="left" alt="Git" width="22px" src="logos/git.svg?raw=true" />][git]
+[<img align="left" alt="Bitbucket" width="22px" src="logos/bitbucket.svg?raw=true" />][bitbucket]
+[<img align="left" alt="Azure" width="22px" src="logos/azuredevops.svg?raw=true" />][azure]
+[<img align="left" alt="Docker" width="22px" src="logos/docker.svg?raw=true" />][docker]
+[<img align="left" alt="Intellijidea" width="22px" src="logos/intellijidea.svg?raw=true" />][intellij]
+[<img align="left" alt="VS Code" width="22px" src="logos/visualstudiocode.svg?raw=true" />][vscode]
+[<img align="left" alt="SonarCloud" width="22px" src="logos/sonarcloud.svg?raw=true" />][sonarcloud]
+[<img align="left" alt="Bootstrap" width="22px" src="logos/bootstrap.svg?raw=true" />][bootstrap]
 
 <br>
 
