@@ -16,9 +16,9 @@ Back-end | Front-end
 
 ## Contact with me:
 
-<img align="left" alt="MyWhatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />
-<img align="left" alt="MyGitHub | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
+[<img align="left" alt="MyWhatsapp" width="22px" src="https://github.com/fred1895/fred1895/logos/whatsapp.svg?raw=true" />][whatsapp]
+[<img align="left" alt="MyGitHub | GitHub" width="22px" src="logos/github.svg?raw=true" />][github]
+[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
 <br>
 
@@ -47,6 +47,9 @@ Back-end | Front-end
  </br></br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
 
+[whatsapp]: https://api.whatsapp.com/send?phone=5522988496738
+[linkedin]: https://www.linkedin.com/in/frederico-almeida-860b6814b/
+[github]: https://github.com/fred1895?tab=repositories
 
 <!--
 **fred1895/fred1895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
