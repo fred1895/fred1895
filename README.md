@@ -16,29 +16,30 @@ Back-end | Front-end
 
 ## Contact with me:
 
-[<img align="left" alt="MyWhatsapp" width="22px" src="logos/whatsapp.svg?raw=true" />][whatsapp]
+[<img align="left" alt="MyWhatsapp" width="22px" src="https://cdn.pixabay.com/photo/2015/08/03/13/58/soon-873316__340.png" />][whatsapp]
 [<img align="left" alt="MyGitHub | GitHub" width="22px" src="logos/github.svg?raw=true" />][github]
-[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" src="logos/linkedin.svg?raw=true" />][linkedin]
+[<img align="left" alt="MyLinkedIn | LinkedIn" width="22px" https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" />][linkedin]
 
 <br>
 
 ## Languages and tools:
 
-[<img align="left" alt="Java" width="22px" src="logos/java.svg?raw=true" />][java]
-[<img align="left" alt="Spring Boot" width="22px" src="logos/spring.svg?raw=true" />][spring]
-[<img align="left" alt="Angular" width="22px" src="logos/angular.svg?raw=true" />][angular]
-[<img align="left" alt="HTML" width="22px" src="logos/html5.svg?raw=true" />][html]
-[<img align="left" alt="CSS" width="22px" src="logos/css3.svg?raw=true" />][css]
-[<img align="left" alt="Javascript" width="22px" src="logos/javascript.svg?raw=true" />][javascript]
-[<img align="left" alt="Typescript" width="22px" src="logos/typescript.svg?raw=true" />][typescript]
-[<img align="left" alt="Git" width="22px" src="logos/git.svg?raw=true" />][git]
+[<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="Spring Boot" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][spring]
+[<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
+[<img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
+[<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Bitbucket" width="22px" src="logos/bitbucket.svg?raw=true" />][bitbucket]
 [<img align="left" alt="Azure" width="22px" src="logos/azuredevops.svg?raw=true" />][azure]
-[<img align="left" alt="Docker" width="22px" src="logos/docker.svg?raw=true" />][docker]
+[<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Intellijidea" width="22px" src="logos/intellijidea.svg?raw=true" />][intellij]
 [<img align="left" alt="VS Code" width="22px" src="logos/visualstudiocode.svg?raw=true" />][vscode]
 [<img align="left" alt="SonarCloud" width="22px" src="logos/sonarcloud.svg?raw=true" />][sonarcloud]
 [<img align="left" alt="Bootstrap" width="22px" src="logos/bootstrap.svg?raw=true" />][bootstrap]
+[<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 <br>
 
@@ -73,6 +74,7 @@ Back-end | Front-end
 [vscode]: https://code.visualstudio.com/
 [sonarcloud]: https://sonarcloud.io/
 [bootstrap]: https://getbootstrap.com/
+[sql]: https://www.w3schools.com/sql/
 
 <!--
 **fred1895/fred1895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
