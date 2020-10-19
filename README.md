@@ -1,8 +1,15 @@
-<h1> Hello World </h1>
-    Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, Feign Client, FlyWay, MySQL, Docker, FTPServer and services, Azure DevOps and Git for version control. Welcome to my github.
-<hr> </hr>
-<h2>Projects</h2>
- 
+#Hello World
+
+*Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, Feign Client, FlyWay, MySQL, Docker, FTPServer and services, Azure DevOps and Git for version control. Welcome to my github.*
+
+<hr>
+
+##Projects
+
+Back-end | Front-end
+------------ | -------------
+[A complete CRUD with Spring Boot and JPA / Hibernate](href="https://github.com/fred1895/cursomvc)| [Angular app consuming an API](https://github.com/fred1895/angular-clientes-app)
+Content in the first column | Content in the second column
  <div>
      <span>
  <h3>Backend</h3>
