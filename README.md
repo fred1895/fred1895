@@ -33,7 +33,7 @@ Back-end | Front-end
 [<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Bitbucket" width="22px" src="https://img.favpng.com/7/19/23/bitbucket-computer-software-github-clip-art-png-favpng-13fqKUGpzmm6QU1XDrv1VcZrA_t.jpg" />][bitbucket]
-[<img align="left" alt="Azure" width="22px" src="https://www.parkmycloud.com/wp-content/uploads/Azure-DevOps-3.png" />][azure]
+[<img align="left" alt="Azure" width="22px" src="https://img.stackshare.io/service/4313/XNKktHjN_400x400.png" />][azure]
 [<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Intellijidea" width="22px" src="logos/intellij.jpg?raw=true" />][intellij]
 [<img align="left" alt="VS Code" width="22px" src="https://miro.medium.com/max/400/0*yhgQ3dyb17qTLg__.jpg" />][vscode]
