@@ -40,6 +40,8 @@ Back-end | Front-end
 [<img align="left" alt="VS Code" width="22px" src="https://miro.medium.com/max/400/0*yhgQ3dyb17qTLg__.jpg" />][vscode]
 [<img align="left" alt="SonarCloud" width="22px" src="https://pbs.twimg.com/profile_images/955394530806829056/LC7DAYM3_400x400.jpg" />][sonarcloud]
 [<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="Intellijidea" width="22px" src="logos/mysql.svg?raw=true" />][mysql]
+[<img align="left" alt="Intellijidea" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
 
 <br>
 
@@ -75,6 +77,8 @@ Back-end | Front-end
 [sonarcloud]: https://sonarcloud.io/
 [bootstrap]: https://getbootstrap.com/
 [sql]: https://www.w3schools.com/sql/
+[mysql]: https://www.mysql.com/
+[postgresql]: https://www.postgresql.org/
 
 <!--
 **fred1895/fred1895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
