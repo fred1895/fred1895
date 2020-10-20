@@ -29,6 +29,7 @@ Back-end | Front-end
 [<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Bootstrap" width="22px" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" />][bootstrap]
 [<img align="left" alt="Javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -38,7 +39,6 @@ Back-end | Front-end
 [<img align="left" alt="Intellijidea" width="22px" src="logos/intellij.jpg?raw=true" />][intellij]
 [<img align="left" alt="VS Code" width="22px" src="https://miro.medium.com/max/400/0*yhgQ3dyb17qTLg__.jpg" />][vscode]
 [<img align="left" alt="SonarCloud" width="22px" src="https://pbs.twimg.com/profile_images/955394530806829056/LC7DAYM3_400x400.jpg" />][sonarcloud]
-[<img align="left" alt="Bootstrap" width="22px" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" />][bootstrap]
 [<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 <br>
