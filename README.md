@@ -1,8 +1,6 @@
 # Hello World
 
-*Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, Feign Client, FlyWay, MySQL, Docker, FTPServer and services, Azure DevOps and Git for version control. Welcome to my github.*
-
-<hr>
+*Hi. My name is Frederico, or just Fred 😄. I’m currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, Feign Client, FlyWay, MySQL, Docker, FTPServer/Client, Azure DevOps and Git for version control. Welcome to my github.*
 
 ## Repositories
 
@@ -46,13 +44,11 @@ Back-end | Front-end
 <br>
 
 ## About me
-  💬 - I'm 23 years old and I'm studying to become a great fullstack developer 😁. I'm in College 🎓 studying "System analysis and development". I know the fundamentals of object-oriented programming and functional programming.
+  💬 - 23 years old T.I student (Analysis and Development Systems)
  </br>
  😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
  <br>
  😄 - I'm communicative and not afraid to discover new things.
- <br>
- 👯 - I have experience working with other devs using pipelines in Azure and tests with sonarcloud.
  </br>
  ⚡ Fun fact: Before start to develop, I was an English Teacher 😄.
  </br></br>
