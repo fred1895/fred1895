@@ -44,7 +44,7 @@ Back-end | Front-end
 <br>
 
 ## About me
-  💬 - 23 years old T.I student (Analysis and Development Systems)
+  💬 - 23 years old T.I student (Analysis and Development Systems). I'm in the 3rd period.
  </br>
  😉 - I am a helpful and creative person always finding ways to increase my knowledge. 
  <br>
