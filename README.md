@@ -6,7 +6,7 @@
 
 Back-end | Front-end
 ------------ | -------------
-[A complete CRUD with Spring Boot and JPA / Hibernate](https://github.com/fred1895/cursomvc)| [Angular app consuming an API](https://github.com/fred1895/angular-clientes-app)
+[A complete CRUD in Spring Boot and JPA / Hibernate](https://github.com/fred1895/cursomvc)| [Angular app consuming an API](https://github.com/fred1895/angular-clientes-app)
 [Spring Boot and JPA / Hibernate - Restful API](https://github.com/fred1895/spring-angular-clientes_project)| [Angular app using reactive forms consuming an API](https://github.com/fred1895/front-agenda-angular)
 [Microservices using Feign Client](https://github.com/fred1895/feign-client-viacep)| [CSS Projects](https://github.com/fred1895/css_study)
 [NoSQL API with MongoDB](https://github.com/fred1895/mongodb-springboot)| [Javascript Projects](https://github.com/fred1895/js_study)
