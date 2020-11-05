@@ -50,7 +50,7 @@ Back-end | Front-end
  <br>
  😄 - I'm communicative and not afraid to discover new things.
  </br>
- ⚡ - Fun fact: Before start to develop, I was an English Teacher 😄.
+ ⚡ - Fun fact: Before start to develop, I was an English Teacher for 4 years😄.
  </br></br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred1895&layout=compact)](https://github.com/fred1895?tab=repositories)
 
