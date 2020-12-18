@@ -1,6 +1,6 @@
 # Hello World
 
-*Hi. My name is Frederico, or just Fred 😄. I’m a backend dev and currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, FlyWay, MySQL, Docker, Kafka FTPServer/Client, Azure DevOps and Git for version control. Experience in Scrum master. Design patterns: MVC, SOLID and Clean Arch, jUnit. Welcome to my github.*
+*Hi. My name is Frederico, or just Fred 😄. I’m a backend dev and currently working on a company that provides credit and lending services. I work on the backend application using Spring Boot - JPA Hibenate, FlyWay, MySQL, MongoDB, Docker, Kafka FTPServer/Client, Azure DevOps and Git for version control. Experience in Scrum master. Design patterns: MVC, SOLID and Clean Arch, jUnit. Welcome to my github.*
 
 ## Repositories
 
