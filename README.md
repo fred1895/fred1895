@@ -12,7 +12,7 @@ Back-end | Front-end
 [NoSQL API with MongoDB](https://github.com/fred1895/mongodb-springboot)| [Javascript Projects](https://github.com/fred1895/js_study)
 
 
-## Contact with me:
+## Contact me:
 
 [<img align="left" alt="MyWhatsapp" width="22px" src="https://cdn.pixabay.com/photo/2015/08/03/13/58/soon-873316__340.png" />][whatsapp]
 [<img align="left" alt="MyGitHub | GitHub" width="22px" src="logos/github.svg?raw=true" />][github]
